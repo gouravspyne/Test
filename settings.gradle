@@ -1,0 +1,5 @@
+rootProject.name = "Spyne SDK test app"
+include ':app'
+include ':spynesdkapplication'
+include ':spynesdk2'
+include ':SDK3'
